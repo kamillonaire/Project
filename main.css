@@ -39,7 +39,7 @@ a{
     text-decoration: none;
     color: var(--dark-color);
 }
-.bg-blue{
+.bg-green{
     background-color: var(--fros-green-color);
 }
 .bg-white{
@@ -72,11 +72,11 @@ a{
 .btn-white{
     color: var(--fros-green-color);
 }
-.btn-light-blue{
+.btn-light-green{
     background-color: var(--light-green-color);
     color: var(--light-color);
 }
-.btn-blue{
+.btn-green{
     background-color: var(--fros-green-color);
     color: var(--light-color);
 }
